@@ -375,3 +375,17 @@
 2024-06-09 07:32:05 INFO  c.l.b.security.AuthTokenFilter - Token verified successfully
 2024-06-09 07:32:05 INFO  c.learn.backendAuth.security.JwtUtil - User info retrieved successfully from token
 2024-06-09 07:32:05 INFO  c.l.b.security.AuthTokenFilter - User found: admin
+2024-06-09 08:58:58 INFO  c.l.b.security.AuthTokenFilter - No Bearer token found in header
+2024-06-09 08:59:12 INFO  c.l.b.security.AuthTokenFilter - No Bearer token found in header
+2024-06-09 08:59:13 INFO  c.learn.backendAuth.security.JwtUtil - Token generated successfully for user 'isnaayum'
+2024-06-09 08:59:13 INFO  c.l.b.service.impl.AuthServiceImpl - User 'isnaayum' logged in successfully
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - Token found in header: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBdXRoIEFwcGxpY2F0aW9uIiwic3ViIjoiYmM0YjE2YmItMjNhNy00YjgyLWE5ODYtNTI1ZWZkZjNiYzg1IiwiZXhwIjoxNzE3OTAxOTUzLCJpYXQiOjE3MTc4OTgzNTMsInJvbGUiOiJST0xFX0NVU1RPTUVSIn0.Y3vBnL4C4Ny8XjClouoLzUBU6iVP_98cKqBtfIdA7qM
+2024-06-09 08:59:13 INFO  c.learn.backendAuth.security.JwtUtil - Token verification successful
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - Token verified successfully
+2024-06-09 08:59:13 INFO  c.learn.backendAuth.security.JwtUtil - User info retrieved successfully from token
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - Token found in header: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBdXRoIEFwcGxpY2F0aW9uIiwic3ViIjoiYmM0YjE2YmItMjNhNy00YjgyLWE5ODYtNTI1ZWZkZjNiYzg1IiwiZXhwIjoxNzE3OTAxOTUzLCJpYXQiOjE3MTc4OTgzNTMsInJvbGUiOiJST0xFX0NVU1RPTUVSIn0.Y3vBnL4C4Ny8XjClouoLzUBU6iVP_98cKqBtfIdA7qM
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - User found: isnaayum
+2024-06-09 08:59:13 INFO  c.learn.backendAuth.security.JwtUtil - Token verification successful
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - Token verified successfully
+2024-06-09 08:59:13 INFO  c.learn.backendAuth.security.JwtUtil - User info retrieved successfully from token
+2024-06-09 08:59:13 INFO  c.l.b.security.AuthTokenFilter - User found: isnaayum
